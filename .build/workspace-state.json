@@ -1,0 +1,26 @@
+{
+  "object" : {
+    "artifacts" : [
+      {
+        "kind" : "xcframework",
+        "packageRef" : {
+          "identity" : "fastddsprebuild",
+          "kind" : "root",
+          "location" : "/home/nipun/Desktop/swift/FastDDSPrebuild",
+          "name" : "FastDDSPrebuild"
+        },
+        "path" : "/home/nipun/Desktop/swift/FastDDSPrebuild/.build/artifacts/fastddsprebuild/FastDDS/FastDDS.xcframework",
+        "source" : {
+          "checksum" : "48eb5d315e1e8fa2e12168d104592c1812cf246bfb249893a7b36a4c1bd6a6b8",
+          "type" : "remote",
+          "url" : "https://github.com/DimaRU/FastDDSPrebuild/releases/download/v2.13.2/fastdds-v2.13.2.xcframework.zip"
+        },
+        "targetName" : "FastDDS"
+      }
+    ],
+    "dependencies" : [
+
+    ]
+  },
+  "version" : 6
+}

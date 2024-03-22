@@ -1,8 +1,8 @@
 .DS_Store
 /.swiftpm
-/.build
-/build
+# /.build
+# /build
 /Packages
-/*.xcodeproj
+# /*.xcodeproj
 xcuserdata/
 /script
